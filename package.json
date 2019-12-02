@@ -1,0 +1,15 @@
+{
+  "name": "vrify_ex_01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll",
+    "start": "node src/index"
+  },
+  "author": "Ricardo Georgel",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
